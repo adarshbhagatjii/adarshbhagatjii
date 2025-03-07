@@ -7,8 +7,7 @@
 
 ### 📊 GitHub Stats & Contribution Graph
 
-![Adarsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adarshbhagatjii&show_icons=true&theme=dark)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adarshbhagatjii&theme=dark)  
+![Adarsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adarshbhagatjii&show_icons=true&theme=dark)    
 ![GitHub Contribution Graph](https://ghchart.rshah.org/adarshbhagatjii)
 
 ---
@@ -28,7 +27,7 @@
 
 🔹 **[Project 1](https://github.com/adarshbhagatjii/project1)** – A brief description of project 1.  
 🔹 **[Project 2](https://github.com/adarshbhagatjii/project2)** – A brief description of project 2.  
-🔹 **[Open Source Contributions](https://github.com/adarshbhagatjii?tab=repositories)** – Contributions to various projects in the open-source community.
+
 
 ---
 
