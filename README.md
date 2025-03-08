@@ -25,9 +25,9 @@
 
 ### 🌟 Featured Projects
 
-🔹 **[Project 1](https://github.com/adarshbhagatjii/devMeetup)** – A A React.js web application designed for organizing and managing developer meetups. It features user authentication, profile management, meetup requests, and real-time notifications using Redux Toolkit and Axios. Built with Vite for optimized performance and styled with Tailwind CSS.
+🔹 **[DevMeetup](https://github.com/adarshbhagatjii/devMeetup)** – A A React.js web application designed for organizing and managing developer meetups. It features user authentication, profile management, meetup requests, and real-time notifications using Redux Toolkit and Axios. Built with Vite for optimized performance and styled with Tailwind CSS.
 
-Tech Stack: React.js, Redux Toolkit, Vite, Tailwind CSS, Axios, React Router, React Toastify. 
+Tech Stack: React.js, Redux Toolkit, Vite, Tailwind CSS, Axios, React Router, React Toastify.)
 🔹 **[My Restro](https://github.com/adarshbhagatjii/myRestro-frontend)** – online platform for orders food.  
 
 
