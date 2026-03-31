@@ -10,10 +10,10 @@
 
 ---
 
-## 📊 GitHub Stats  
-![Adarsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adarshbhagatjii&show_icons=true&theme=tokyonight)  
+## 📊 GitHub Status  
+  
 ![GitHub Streak](https://streak-stats.demolab.com?user=adarshbhagatjii&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adarshbhagatjii&layout=compact&theme=tokyonight)
+
 
 ---
 
@@ -261,9 +261,8 @@ A full-stack web app to bring developers together through meetups and discussion
  
 
 
-### 📊 GitHub Stats & Contribution Graph
-
-![Adarsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adarshbhagatjii&show_icons=true&theme=dark)    
+### 📊 GitHub Status & Contribution Graph
+  
 ![GitHub Contribution Graph](https://ghchart.rshah.org/adarshbhagatjii)
 
 ---
